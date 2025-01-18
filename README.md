@@ -6,11 +6,11 @@
 
 **AutoGPT** is a powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows. 
 
-## Hosting Options 
+## Hosting Options:
    - Download to self-host
    - [Join the Waitlist](https://bit.ly/3ZDijAI) for the cloud-hosted beta  
 
-## How to Setup for Self-Hosting
+## How to Setup for Self-Host
 > [!NOTE]
 > Setting up and hosting the AutoGPT Platform yourself is a technical process. 
 > If you'd rather something that just works, we recommend [joining the waitlist](https://bit.ly/3ZDijAI) for the cloud-hosted beta.
@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/d04273a5-b36a-4a37-818e-f631ce72d603
 
 This tutorial assumes you have Docker, VSCode, git and npm installed.
 
-### 🧱 AutoGPT Frontend
+### 🧱 AutoGPT Frontend : 
 
 The AutoGPT frontend is where users interact with our powerful AI automation platform. It offers multiple ways to engage with and leverage our AI agents. This is the interface where you'll bring your AI automation ideas to life:
 
